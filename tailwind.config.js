@@ -3,8 +3,8 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        hero: "url('img/hero.jpg')",
-        
+        hero: "linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('img/hero.jpg')",
+        testimonial: "linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('img/customer.jpg')"
       }
     
     },
