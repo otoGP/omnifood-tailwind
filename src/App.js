@@ -232,7 +232,7 @@ function App() {
                 <hr className='mx-auto ml-96 my-4 w-32 h-1 border-2 border-orange-400'></hr>
             </div>
             <div class="flex flex-wrap mt-5 columns-3 ml-4">
-                    <div class="border-2 border-black rounded ml-3 mt-40">
+                    <div class="border-2 border-black rounded ml-3 mt-20">
                         <div  className='bg-white p-4 border-b-2 border-b-slate-300'>
                             <h3>Premium</h3>
                             <p className='text-orange-500 text-6xl'>399$ <div className='text-2xl ml-32 -mt-9'>/ month</div></p>
@@ -262,7 +262,7 @@ function App() {
                     </div>
                 
                 
-                    <div class="border-2 border-black rounded ml-3 max-w-fit mt-40">
+                    <div class="border-2 border-black rounded ml-3 max-w-fit mt-20">
                        <div  className='bg-white p-4 border-b-2 border-b-slate-300 h-40'>
                             <h3>Pro</h3>
                             <p className='text-orange-500 text-6xl'>149$ <div className='text-2xl ml-32 -mt-9'>/ month</div></p>
@@ -291,7 +291,7 @@ function App() {
                         </div>
                     </div>
                
-                    <div class="border-2 border-black rounded ml-3 max-w-fit mt-40">
+                    <div class="border-2 border-black rounded ml-3 max-w-fit mt-20">
                         <div  className='bg-white p-4 border-b-2 border-b-slate-300 h-40'>
                             <h3>Starter</h3>
                             <p className='text-orange-500 text-6xl'>19$ <div className='text-2xl ml-32 -mt-9'>/ meal</div></p>
@@ -326,7 +326,7 @@ function App() {
         </section>
         <section class="bg-gray-200">
             <div class="max-w-6xl ml-80">
-                <h2 className='text-5xl lg:text-6xl mt-20 ml-20 font-thin'>We're happy to hear from you</h2>
+                <h2 className='text-5xl lg:text-6xl mt-20 ml-40 font-thin'>We're happy to hear from you</h2>
             </div>
             <div class="max-w-6xl">
                 <form class="w-3/5">
